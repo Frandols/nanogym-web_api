@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Proyectos\\Personales\\nanogym\\ServerRefactor\\Server\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5FA32F80-C5AD-4999-9323-6AEAE6E995D2}|WebApi\\WebApi.csproj|d:\\proyectos\\personales\\nanogym\\serverrefactor\\server\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FA32F80-C5AD-4999-9323-6AEAE6E995D2}|WebApi\\WebApi.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FA32F80-C5AD-4999-9323-6AEAE6E995D2}|WebApi\\WebApi.csproj|d:\\proyectos\\personales\\nanogym\\serverrefactor\\server\\webapi\\extensions\\authenticationextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FA32F80-C5AD-4999-9323-6AEAE6E995D2}|WebApi\\WebApi.csproj|solutionrelative:webapi\\extensions\\authenticationextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACCA937E-0E15-442E-8D22-2C7590F26B56}|Domain\\Domain.csproj|d:\\proyectos\\personales\\nanogym\\serverrefactor\\server\\domain\\entities\\gym.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACCA937E-0E15-442E-8D22-2C7590F26B56}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\gym.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACCA937E-0E15-442E-8D22-2C7590F26B56}|Domain\\Domain.csproj|d:\\proyectos\\personales\\nanogym\\serverrefactor\\server\\domain\\valueobjects\\administrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACCA937E-0E15-442E-8D22-2C7590F26B56}|Domain\\Domain.csproj|solutionrelative:domain\\valueobjects\\administrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Proyectos\\Personales\\nanogym\\ServerRefactor\\Server\\WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "WebApi\\Program.cs",
+              "ToolTip": "D:\\Proyectos\\Personales\\nanogym\\ServerRefactor\\Server\\WebApi\\Program.cs",
+              "RelativeToolTip": "WebApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T19:30:11.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Gym.cs",
+              "DocumentMoniker": "D:\\Proyectos\\Personales\\nanogym\\ServerRefactor\\Server\\Domain\\Entities\\Gym.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Gym.cs",
+              "ToolTip": "D:\\Proyectos\\Personales\\nanogym\\ServerRefactor\\Server\\Domain\\Entities\\Gym.cs",
+              "RelativeToolTip": "Domain\\Entities\\Gym.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAswE4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T19:28:21.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Administrator.cs",
+              "DocumentMoniker": "D:\\Proyectos\\Personales\\nanogym\\ServerRefactor\\Server\\Domain\\ValueObjects\\Administrator.cs",
+              "RelativeDocumentMoniker": "Domain\\ValueObjects\\Administrator.cs",
+              "ToolTip": "D:\\Proyectos\\Personales\\nanogym\\ServerRefactor\\Server\\Domain\\ValueObjects\\Administrator.cs",
+              "RelativeToolTip": "Domain\\ValueObjects\\Administrator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T19:25:42.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthenticationExtensions.cs",
+              "DocumentMoniker": "D:\\Proyectos\\Personales\\nanogym\\ServerRefactor\\Server\\WebApi\\Extensions\\AuthenticationExtensions.cs",
+              "RelativeDocumentMoniker": "WebApi\\Extensions\\AuthenticationExtensions.cs",
+              "ToolTip": "D:\\Proyectos\\Personales\\nanogym\\ServerRefactor\\Server\\WebApi\\Extensions\\AuthenticationExtensions.cs",
+              "RelativeToolTip": "WebApi\\Extensions\\AuthenticationExtensions.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T19:24:36.694Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
